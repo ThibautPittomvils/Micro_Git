@@ -1,3 +1,2 @@
-static void led_init(void);
-static void pot_init(void);
-void func(void);
+void pot_init(void);
+int give_pot_value(void);
